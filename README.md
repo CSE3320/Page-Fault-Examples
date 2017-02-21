@@ -6,7 +6,7 @@ I'm going to be a web developer.  Why do I need to learn about memoery paging an
 - [page_fault_fast.py][03]
 - [page_fault_slow.py][04]
 
-[01]: https://github.com/CSE3320//tree/master/page_fault_fast.java
-[02]: https://github.com/CSE3320//tree/master/page_fault_slow.java
-[03]: https://github.com/CSE3320//tree/master/page_fault_fast.py
-[04]: https://github.com/CSE3320//tree/master/page_fault_slow.py
+[01]: https://github.com/CSE3320/Page-Fault-Examples/blob/master/page_fault_fast.java
+[02]: https://github.com/CSE3320/Page-Fault-Examples/blob/master/page_fault_slow.java
+[03]: https://github.com/CSE3320/Page-Fault-Examples/blob/master/page_fault_fast.py
+[04]: https://github.com/CSE3320/Page-Fault-Examples/blob/master/page_fault_slow.py
